@@ -1,0 +1,16 @@
+<html>
+
+<head>
+    <script src="ServerSelector.js"></script>
+</head>
+
+<body>
+    <script>
+        RSIServer.newServer(1, 2, 3, 4, 5, 6, 7);
+        const temp1 = JSON.stringify(RSIServer)
+        const temp2 = JSON.parse(temp1)
+        console.log(temp1)
+    </script>
+</body>
+
+</html>
