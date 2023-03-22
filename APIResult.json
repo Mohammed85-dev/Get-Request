@@ -1,1 +1,1 @@
-{"servers":[{"number":1,"name":2,"owner":3,"type":4,"version":5,"status":6,"game":7}]}
+ServerNumber=1,Name=UntitledServer,Owner=Mohammed85,type=vanilla,version=1.19.2,status=online,game=minecraft&ServerNumber=2,Name=ValServer,Owner=Diamond,type=forge,version=latest,status=offline,game=val
