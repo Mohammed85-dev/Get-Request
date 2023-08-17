@@ -86,7 +86,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>tG9YkDmFStdr/XRdl6tjsci3lnfxMztei2tuBdSzQ0E=</dsig:DigestValue>
+      <dsig:DigestValue>OIQwgQvUWYltpp4HqzwXjb+NdhH8UHugJAlW3frEv50=</dsig:DigestValue>
     </hash>
   </file>
   <file name="mythos.pdb" size="27124">
